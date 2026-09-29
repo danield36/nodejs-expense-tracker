@@ -1,20 +1,20 @@
-![Nodejs_ExpenseTracker](https://socialify.git.ci/walidbosso/Nodejs_ExpenseTracker/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
+![nodejs-expense-tracker](https://socialify.git.ci/danield36/nodejs-expense-tracker/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
 
 
 <p align="center">
-<a href="https://github.com/walidbosso/Nodejs_ExpenseTracker">
+<a href="https://github.com/danield36/nodejs-expense-tracker">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> </a>
 </p>
 <div align="center">
   
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/walidbosso/Nodejs_ExpenseTracker)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danield36&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/danield36/nodejs-expense-tracker)
 
   <p align="center">
-<a href="https://github.com/walidbosso/Nodejs_ExpenseTracker">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FNodejs_ExpenseTracker&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
+<a href="https://github.com/danield36/nodejs-expense-tracker">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdanield36%2Fnodejs-expense-tracker&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
 </p>
 
-<a href="https://github.com/walidbosso/Nodejs_ExpenseTracker">
+<a href="https://github.com/danield36/nodejs-expense-tracker">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
   <a/>
 </a>
@@ -77,15 +77,11 @@ The Expense and Income Tracker Back-End project is a testament to modern web dev
 
 Explore the live deployment at [https://bosso-expense-tracker.onrender.com/](https://bosso-expense-tracker.onrender.com/) and start tracking your expenses and income with ease!
 
-  - Contact me in [LinkedIn](https://www.linkedin.com/in/walidbosso) for questions. 
+  - Contact me in [LinkedIn](https://www.linkedin.com/in/danield36) for questions. 
 
 <br>
 
 <div align="center">
-  
-----------------------
-> >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
-----------------------
 
 <details open disabled>
 
@@ -96,7 +92,7 @@ Explore the live deployment at [https://bosso-expense-tracker.onrender.com/](htt
 
 <div align="center">
 
-[![Stargazers repo roster for @walidbosso/Nodejs_ExpenseTracker](http://reporoster.com/stars/dark/walidbosso/Nodejs_ExpenseTracker)](https://github.com/walidbosso/Nodejs_ExpenseTracker/stargazers)
+[![Stargazers repo roster for @danield36/nodejs-expense-tracker](http://reporoster.com/stars/dark/danield36/nodejs-expense-tracker)](https://github.com/danield36/nodejs-expense-tracker/stargazers)
 
 
 
@@ -106,14 +102,14 @@ Explore the live deployment at [https://bosso-expense-tracker.onrender.com/](htt
 
 <div align="center" >
 
-[![Forkers repo roster for @walidbosso/Nodejs_ExpenseTracker](http://reporoster.com/forks/dark/walidbosso/Nodejs_ExpenseTracker)](https://github.com/walidbosso/Nodejs_ExpenseTracker/network/members)
+[![Forkers repo roster for @danield36/nodejs-expense-tracker](http://reporoster.com/forks/dark/danield36/nodejs-expense-tracker)](https://github.com/danield36/nodejs-expense-tracker/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://contrib.rocks/image?repo=walidbosso/Nodejs_ExpenseTracker"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://contrib.rocks/image?repo=danield36/nodejs-expense-tracker"/>
 </a>
 
 
@@ -121,30 +117,30 @@ Explore the live deployment at [https://bosso-expense-tracker.onrender.com/](htt
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/danield36"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=danield36&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/Nodejs_ExpenseTracker?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/danield36/nodejs-expense-tracker?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/walidbosso/Nodejs_ExpenseTracker?style=social)
+![GitHub License](https://img.shields.io/github/license/danield36/nodejs-expense-tracker?style=social)
 
 
 
 
 </div>
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
